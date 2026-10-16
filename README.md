@@ -6,3 +6,7 @@
 - [Практическая 1](devops/practice-01)
 - [Практическая 2](devops/practice-02)
 - [Практическая 3](devops/practice-03)
+### Testing
+- ~~Практическая 1~~
+- [Практическая 2](testing/practice-02)
+- ~~Практическая 3~~
