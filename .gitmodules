@@ -1,6 +1,3 @@
-[submodule "DevOps-course"]
-	path = DevOps-course
-	url = https://github.com/borborisovai/DevOps-course.git
 [submodule "devops/DevOps-course"]
 	path = devops/DevOps-course
 	url = https://github.com/borborisovai/DevOps-course.git
