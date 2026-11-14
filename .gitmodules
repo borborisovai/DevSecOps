@@ -1,0 +1,12 @@
+[submodule "DevOps-course"]
+	path = DevOps-course
+	url = https://github.com/borborisovai/DevOps-course.git
+[submodule "devops/DevOps-course"]
+	path = devops/DevOps-course
+	url = https://github.com/borborisovai/DevOps-course.git
+[submodule "devops/dso-kt1"]
+	path = devops/dso-kt1
+	url = https://github.com/borborisovai/dso-kt1.git
+[submodule "testing/Theory"]
+	path = testing/Theory
+	url = https://github.com/mdvwork/IThub-24.3.git
